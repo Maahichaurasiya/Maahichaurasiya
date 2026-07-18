@@ -7,14 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=Maahichaurasiya&label=Profile+Views&color=7928ca&style=flat-square" alt="Profile Views" />
 </p>
 
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/maahichaurasiya-datascience"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/cs1j_2410945/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
-  <a href="mailto:2k24.csj1.2410945@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 </div>
 
 ---
