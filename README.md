@@ -1,7 +1,7 @@
 <div align="center">
 
 # <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa27e-8569-45d3-ab45-93ae8b746328.gif" width="32px"> Maahi Chaurasiya
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7928CA&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist+%7C+ML+Enthusiast;Python+Developer;Sculpting+data+into+predictive+intelligence" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7928CA&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+%7C+ML+Enthusiast;Sculpting+data+into+predictive+intelligence" alt="3D Typing Title" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maahichaurasiya&label=Profile+Views&color=7928ca&style=flat-square" alt="Profile Views" />
@@ -71,3 +71,13 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/maahichaurasiya-datascience"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/cs1j_2410945/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
+  <a href="mailto:2k24.csj1.2410945@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
