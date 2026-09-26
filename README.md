@@ -213,10 +213,28 @@
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 🧩 Algorithmic Problem Solving & GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Maahichaurasiya&theme=tokyonight&hide_border=true&border_radius=8" width="85%" alt="Maahi's GitHub Streak" />
+
+<a href="https://leetcode.com/u/cs1j_2410945/">
+  <img src="https://leetcard.jacoblin.cool/cs1j_2410945?theme=tokyonight&font=fira" width="48%" alt="Maahi's LeetCode Stats Card" />
+</a>
+&nbsp;
+<a href="https://github.com/Maahichaurasiya">
+  <img src="https://streak-stats.demolab.com/?user=Maahichaurasiya&theme=tokyonight&hide_border=true&border_radius=8" width="48%" alt="Maahi's GitHub Streak" />
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/cs1j_2410945/">
+  <img src="https://img.shields.io/badge/LeetCode-cs1j__2410945-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Maahichaurasiya/Leetcode">
+  <img src="https://img.shields.io/badge/LeetCode%20Repo-70%2B%20CPP%20Solutions-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode Solutions Repo" />
+</a>
+
 </div>
 
 ---
