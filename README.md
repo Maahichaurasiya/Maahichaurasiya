@@ -1,22 +1,43 @@
+<!-- Hero Banner -->
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=Maahi%20Chaurasiya&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Pre-Final%20Year%20CS%20%7C%20Generative%20AI%20%26%20Agentic%20Systems%20%7C%20ML%20Engineer&descSize=19&descAlignY=68" width="100%" alt="Maahi Chaurasiya Banner" />
-
-<!-- Dynamic Animated Subtitle -->
-<a href="https://github.com/Maahichaurasiya">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Pre-Final+Year+CS+Student+%40+PSIT+Kanpur+(CGPA%3A+8.5%2F10);Generative+AI+%26+Agentic+Systems+Engineer;Building+LLM-Powered+Apps%2C+RAG+%26+Computer+Vision;Seeking+SWE%2C+Data+Analyst+%26+AI%2FML+Internships" alt="Typing Title" />
-</a>
-
-<p align="center">
-  <a href="https://linkedin.com/in/maahichaurasiya-datascience"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/cs1j_2410945/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:maahichaurasiya9026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Maahichaurasiya&label=Profile+Views&color=7928ca&style=for-the-badge" alt="Profile Views" />
-</p>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,18,24&amp;height=220&amp;section=header&amp;text=Maahi%20Chaurasiya&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn"
+    width="100%"
+    alt="Maahi Chaurasiya Banner"
+  />
 
 </div>
 
+<!-- Profile Summary -->
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+  <b>Pre-Final Year CSE Student • Generative AI • Agentic Systems • ML Engineering</b>
+</p>
+
+<p align="center">
+  I'm a Computer Science student passionate about building
+  <b>AI-powered software systems</b> that solve real-world problems.
+  I work across <b>Generative AI, Agentic AI, LLMs, RAG, Computer Vision,
+  Machine Learning, and FastAPI</b>.
+</p>
+
+<p align="center">
+  I enjoy building intelligent applications, experimenting with AI agents,
+  developing reliable backend systems, and turning ideas into
+  <b>deployable products</b>.
+</p>
+
+<p align="center">
+  🚀 <b>Currently exploring:</b>
+  Agentic AI • Multi-Agent Systems • RAG • LLM Applications
+</p>
+
+<p align="center">
+  🎯 <b>Open to:</b>
+  Software Engineering • AI/ML • Generative AI • Data Analyst Internships
+</p>
 ---
 
 ### 📌 Recruiter Quick Snapshot
@@ -131,7 +152,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
@@ -161,10 +181,9 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+ 
 </p>
 
 #### 🛠️ Developer Tools, Testing & Core Concepts
