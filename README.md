@@ -1,128 +1,98 @@
 <div align="center">
 
-<!-- Hero Banner (Stored locally in repository for 100% uptime & zero broken links) -->
-<img src="./assets/banner.png" width="100%" alt="Maahi Chaurasiya - Pre-Final Year CS | Generative AI & Agentic Systems | ML Engineer" />
+<!-- Hero Banner -->
+<img src="./assets/banner.png" width="100%" alt="Maahi Chaurasiya Banner" />
 
 <br><br>
 
 <!-- Dynamic Animated Subtitle -->
 <a href="https://github.com/Maahichaurasiya">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Pre-Final+Year+CS+Student+%40+PSIT+Kanpur+(CGPA%3A+8.5%2F10);Generative+AI+%26+Agentic+Systems+Engineer;Building+LLM-Powered+Apps%2C+RAG+%26+Computer+Vision;Seeking+SWE%2C+Data+Analyst+%26+AI%2FML+Internships" alt="Typing Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=CS+Undergrad+%40+PSIT+Kanpur+(CGPA%3A+8.5%2F10);FastAPI+%26+Production+ML+Engineer;LLMs%2C+RAG+(ChromaDB)+%26+Computer+Vision;Seeking+SWE%2C+ML+%26+GenAI+Internships" alt="Typing Title" />
 </a>
 
 <p align="center">
   <a href="https://linkedin.com/in/maahichaurasiya-datascience"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
+  <a href="https://github.com/Maahichaurasiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
   <a href="https://leetcode.com/u/cs1j_2410945/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   &nbsp;
   <a href="mailto:maahichaurasiya9026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Maahichaurasiya.Maahichaurasiya" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Summary & About Me
+### 👨‍💻 About Me
 
-> **Pre-final year Computer Science & Engineering undergraduate** at **Pranveer Singh Institute of Technology (PSIT), Kanpur** *(Expected May 2028 | **CGPA: 8.5 / 10.0**)* with a deep focus on **Generative AI**, **Agentic Systems**, and **Production Machine Learning**.
+> **Computer Science undergraduate at PSIT Kanpur** *(B.Tech, Graduating May 2028 | **CGPA: 8.5 / 10.0**)*.
+> Focused on building **FastAPI backends** with **Streamlit dashboards** using **LLMs, RAG, and Computer Vision**, backed by **Pytest** test suites and solid Core CS fundamentals (DSA, OOP, DBMS, OS).
 
-* 🚀 **Building Intelligent Systems:** Hands-on experience developing end-to-end LLM applications, multimodal AI, and RAG architectures grounded in domain guidelines via ChromaDB and LangChain.
-* 🧠 **Multimodal & Computer Vision:** Fine-tuning deep convolutional networks (EfficientNet on HAM10000) and integrating **Grad-CAM explainability** to render model predictions transparent and interpretable.
-* 🛡️ **Resilient Backend Engineering:** Architecting production-ready APIs with **FastAPI**, **HMAC-SHA256 authenticated webhooks**, idempotency safeguards, automated retry scheduling, and comprehensive **Pytest** suites.
-* 📊 **Data Science & Analytics:** Strong analytical foundation in statistical feature engineering, predictive regression/classification, interactive **Streamlit** dashboards, and executive **Tableau** visualizations.
-* 🏆 **Competitive Track Record:** **Flipkart GRiD Round 3 Semi-finalist**, **Adobe Hackathon** participant, and **149+ problems solved on LeetCode**.
-* 🎯 **Seeking Internship Roles:** Open to **Software Engineering (SWE)**, **Machine Learning Engineer**, **Generative AI / Agentic AI**, and **Data Analyst** internships.
+- 🎯 **Target Roles:** Software Engineering (SWE), Machine Learning, Generative AI Internships.
+- 🏆 **Achievements:** Flipkart GRiD Semi-finalist (Round 3) • Adobe Hackathon Participant • 149+ LeetCode Solved.
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Projects
 
 <table>
-  <!-- Project 1: RetryIQ -->
   <tr>
-    <td width="50%" valign="top">
+    <!-- Project 1: RetryIQ -->
+    <td width="33.3%" valign="top">
       <div align="center">
         <h3>🛡️ <a href="https://github.com/Maahichaurasiya/RetryIQ">RetryIQ</a></h3>
-        <p><strong>AI-Powered Payment Failure Recovery System</strong></p>
+        <p><strong>AI Payment Recovery System</strong></p>
       </div>
       <ul>
-        <li><strong>Intelligent Decision Engine:</strong> Analyzes complex transaction failures and generates real-time <code>RETRY</code> or <code>BLOCK</code> actions utilizing an LLM coupled with deterministic rule engines.</li>
-        <li><strong>Enterprise-Grade Reliability:</strong> Engineered 5+ fault-tolerant safeguards including HMAC-SHA256 authenticated webhooks, idempotent event processing, automated retry scheduling, configurable retry thresholds, and persistent attempt logging.</li>
-        <li><strong>Observability Dashboard:</strong> Built an interactive Streamlit console tracking transaction recovery outcomes, AI decision reasoning, and system latency.</li>
-        <li><strong>Test-Driven Engineering:</strong> Implemented automated <code>pytest</code> test suites covering decision classification, retry policies, and scheduling logic.</li>
+        <li><strong>LLM Classification:</strong> Evaluates payment failure causes with rule-based checks deciding <code>RETRY/BLOCK</code> via FastAPI.</li>
+        <li><strong>Reliability:</strong> 5+ mechanisms including HMAC webhooks, idempotency, scheduled retries, retry limits, and event logging.</li>
+        <li><strong>Observability & Tests:</strong> Real-time Streamlit dashboard + Pytest suites for failure scenarios and retry rules.</li>
       </ul>
       <p>
         <strong>Tech Stack:</strong><br>
-        <code>Python</code> • <code>FastAPI</code> • <code>LLM Integration</code> • <code>HMAC-SHA256</code> • <code>SQLAlchemy</code> • <code>SQLite</code> • <code>Streamlit</code> • <code>Pytest</code>
+        <code>FastAPI</code> • <code>LLM</code> • <code>SQLAlchemy</code> • <code>Streamlit</code> • <code>Pytest</code>
       </p>
       <div align="center">
-        <a href="https://github.com/Maahichaurasiya/RetryIQ"><strong>Explore RetryIQ Repository →</strong></a>
+        <a href="https://github.com/Maahichaurasiya/RetryIQ"><strong>View Repository →</strong></a>
       </div>
     </td>
     <!-- Project 2: CuraVision AI -->
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <div align="center">
-        <h3>🩺 CuraVision AI</h3>
-        <p><strong>Multimodal Health Diagnosis & Prescription Assistant</strong></p>
+        <h3>🩺 <a href="https://github.com/Maahichaurasiya/CuraVision-AI">CuraVision AI</a></h3>
+        <p><strong>Health Diagnosis Assistant</strong></p>
       </div>
       <ul>
-        <li><strong>Dual-Engine Architecture:</strong> Unifies two medical AI systems into a cohesive application:
-          <ul>
-            <li><strong>RAG Clinical Assistant:</strong> Chronic illness prescription reasoning grounded on clinical medical guidelines using LangChain and ChromaDB vector store.</li>
-            <li><strong>Skin Lesion Classifier:</strong> Deep learning diagnostic tool fine-tuning EfficientNet on the HAM10000 dermatology dataset.</li>
-          </ul>
-        </li>
-        <li><strong>Explainable AI (XAI):</strong> Integrated <strong>Grad-CAM</strong> visual heatmaps to highlight exact pixel regions influencing model predictions for transparent diagnosis.</li>
-        <li><strong>Modular Microservices:</strong> Decoupled FastAPI endpoints for vision and NLP processing, connected to a unified Streamlit clinician interface.</li>
+        <li><strong>Decoupled Endpoints:</strong> Separate FastAPI microservices for NLP and vision, connected via a Streamlit UI.</li>
+        <li><strong>LLM + RAG:</strong> Prescription tool referencing clinical guidelines in <strong>ChromaDB</strong>.</li>
+        <li><strong>Vision Diagnostic:</strong> Fine-tuned <strong>EfficientNet</strong> on HAM10000 skin lesions + <strong>Grad-CAM</strong> heatmaps for interpretability.</li>
       </ul>
       <p>
         <strong>Tech Stack:</strong><br>
-        <code>Python</code> • <code>PyTorch / EfficientNet</code> • <code>Grad-CAM</code> • <code>LangChain</code> • <code>ChromaDB (RAG)</code> • <code>FastAPI</code> • <code>Streamlit</code>
+        <code>FastAPI</code> • <code>RAG</code> • <code>ChromaDB</code> • <code>EfficientNet</code> • <code>Grad-CAM</code>
       </p>
       <div align="center">
-        <a href="https://github.com/Maahichaurasiya"><strong>Explore Codebase →</strong></a>
+        <a href="https://github.com/Maahichaurasiya/CuraVision-AI"><strong>View Repository →</strong></a>
       </div>
     </td>
-  </tr>
-
-  <!-- Project 3: CreditWise & Project 4: House Price Predictor -->
-  <tr>
-    <td width="50%" valign="top">
+    <!-- Project 3: CreditWise -->
+    <td width="33.3%" valign="top">
       <div align="center">
         <h3>💳 <a href="https://github.com/Maahichaurasiya/CreditWise-Loan-Approval-System">CreditWise</a></h3>
-        <p><strong>Loan Credit Risk & Default Prediction System</strong></p>
+        <p><strong>Loan Credit Risk Prediction</strong></p>
       </div>
       <ul>
-        <li><strong>High-Precision Risk Classifier:</strong> Trained an end-to-end loan default classification pipeline achieving <strong>87.5% accuracy</strong>, <strong>79.0% precision</strong>, and <strong>80.3% recall</strong> across 600+ records.</li>
-        <li><strong>Domain-Specific Feature Engineering:</strong> Implemented robust data preprocessing with median imputation, categorical encoding, StandardScaler, and custom ratios (debt-to-income and asset leverage ratios).</li>
-        <li><strong>Interactive Risk Analytics:</strong> Designed a Streamlit dashboard equipped with dynamic risk gauges and comparison metrics for interpretable borrower risk profiling.</li>
+        <li><strong>High Accuracy:</strong> Default classifier on 600+ records achieving <strong>87.5% accuracy</strong>, <strong>79% precision</strong>, <strong>80.3% recall</strong>.</li>
+        <li><strong>Feature Engineering:</strong> Custom debt-to-income and asset leverage ratios, imputation, and standard scaling.</li>
+        <li><strong>Analytics UI:</strong> Streamlit dashboard tracking risk indicators and metrics.</li>
       </ul>
       <p>
         <strong>Tech Stack:</strong><br>
-        <code>Python</code> • <code>Scikit-Learn</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Streamlit</code> • <code>Matplotlib</code> • <code>Seaborn</code>
+        <code>Scikit-learn</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Streamlit</code>
       </p>
       <div align="center">
-        <a href="https://github.com/Maahichaurasiya/CreditWise-Loan-Approval-System"><strong>Explore CreditWise Repository →</strong></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🏡 <a href="https://github.com/Maahichaurasiya/House-Price-Predictor">House Price Predictor</a></h3>
-        <p><strong>End-to-End Regression & Exploratory Analytics Pipeline</strong></p>
-      </div>
-      <ul>
-        <li><strong>Automated Data Pipeline:</strong> Developed end-to-end regression workflows with automated data cleaning, missing value imputation, outlier detection, and feature scaling.</li>
-        <li><strong>Multivariate Exploratory Analysis:</strong> Built comprehensive correlation heatmaps and distribution analytics identifying key drivers of residential property valuations.</li>
-        <li><strong>Predictive Intelligence:</strong> Evaluated multiple regression algorithms to minimize prediction RMSE on unseen test benchmarks.</li>
-      </ul>
-      <p>
-        <strong>Tech Stack:</strong><br>
-        <code>Python</code> • <code>Scikit-Learn</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Matplotlib</code> • <code>Seaborn</code>
-      </p>
-      <div align="center">
-        <a href="https://github.com/Maahichaurasiya/House-Price-Predictor"><strong>Explore House Price Repository →</strong></a>
+        <a href="https://github.com/Maahichaurasiya/CreditWise-Loan-Approval-System"><strong>View Repository →</strong></a>
       </div>
     </td>
   </tr>
@@ -132,140 +102,40 @@
 
 ### 🛠️ Technical Skills
 
-<div align="left">
-
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-</p>
-
-#### 🤖 Generative AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/RAG%20Architecture-7928CA?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logoColor=white" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/LLM%20Integration-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Computer%20Vision%20(EfficientNet)-02569B?style=for-the-badge&logoColor=white" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Explainable%20AI%20(Grad--CAM)-8A2BE2?style=for-the-badge&logoColor=white" alt="Grad-CAM" />
-</p>
-
-#### ⚡ Backend, APIs & System Resilience
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0052CC?style=for-the-badge&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/HMAC%20Security-24292E?style=for-the-badge&logoColor=white" alt="HMAC Security" />
-  <img src="https://img.shields.io/badge/Webhooks%20%26%20Idempotency-4A154B?style=for-the-badge&logoColor=white" alt="Webhooks" />
-</p>
-
-#### 📊 Data Science, Analytics & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-</p>
-
-#### 🛠️ Developer Tools, Testing & Core Concepts
-<p>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-333333?style=for-the-badge&logoColor=white" alt="DSA" />
-  <img src="https://img.shields.io/badge/OOP%20%7C%20DBMS%20%7C%20OS-444444?style=for-the-badge&logoColor=white" alt="Core CS" />
-</p>
-
-</div>
+- **Languages & Core CS:** Data Structures & Algorithms, OOP, DBMS, OS, Python, C++, SQL (MySQL)
+- **Backend & Engineering:** FastAPI, REST APIs, SQLAlchemy, SQLite, Webhooks, Git, GitHub, Pytest, Unit Testing
+- **Machine Learning & AI:** Scikit-learn, Pandas, NumPy, Deep Learning, Computer Vision, NLP
+- **Generative & Agentic AI:** LLM Integration, RAG, ChromaDB, Agentic AI (Exploring)
+- **Data & Visualization:** Streamlit, Matplotlib, Seaborn, Jupyter Notebook, Exploratory Data Analysis
 
 ---
 
-### 💼 Professional Experience & Competitions
+### 💼 Experience & Certifications
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h4>🏢 Deloitte (Data Analytics Simulation) — Forage</h4>
-      <p><em>Forensic Technology & Analytics Simulation (May 2026)</em></p>
-      <ul>
-        <li>Completed forensic data classification workflows evaluating transactional datasets in Excel.</li>
-        <li>Engineered interactive Tableau dashboards visualizing forensic accounting insights and presented recommendations for executive decision-making.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <h4>🏆 Hackathons & Achievements</h4>
-      <ul>
-        <li><strong>Flipkart GRiD (Round 3 Semi-finalist):</strong> Ideated, developed, and pitched technological solutions under competitive national hackathon deadlines.</li>
-        <li><strong>Adobe Hackathon:</strong> Prototyped and delivered full-stack AI/ML concepts.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- **🏢 Deloitte — Data Analytics Job Simulation (Forage | May 2026):** Forensic data analysis in Excel, Tableau visualization dashboard, and executive recommendations.
+- **📜 Certifications:** AI/ML Course (Apna College) • Python Programming (Infosys Springboard)
+- **🏆 Hackathons:** Flipkart GRiD (Round 3 Semi-finalist) • Adobe Hackathon (Participant)
 
 ---
 
-### 📜 Certifications
-
-- 🏅 **AI / ML Course — Apna College:** Comprehensive coverage of core machine learning concepts, statistical modeling, algorithmic optimization, and project deployment.
-- 🏅 **Python Programming — Infosys Springboard:** Deep-dive into Object-Oriented Programming (OOP), algorithmic problem-solving, modular architecture, and file handling.
-
----
-
-### 🧩 Algorithmic Problem Solving & GitHub Activity
+### 🧩 Algorithmic Problem Solving & Activity
 
 <div align="center">
 
 <a href="https://leetcode.com/u/cs1j_2410945/">
-  <img src="https://leetcard.jacoblin.cool/cs1j_2410945?theme=tokyonight&font=fira" width="48%" alt="Maahi's LeetCode Stats Card" />
+  <img src="https://leetcard.jacoblin.cool/cs1j_2410945?theme=tokyonight&font=fira" width="48%" alt="LeetCode Card" />
 </a>
 &nbsp;
 <a href="https://github.com/Maahichaurasiya">
-  <img src="https://streak-stats.demolab.com/?user=Maahichaurasiya&theme=tokyonight&hide_border=true&border_radius=8" width="48%" alt="Maahi's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Maahichaurasiya&theme=tokyonight&hide_border=true&border_radius=8" width="48%" alt="GitHub Streak" />
 </a>
 
 <br><br>
 
-<a href="https://leetcode.com/u/cs1j_2410945/">
-  <img src="https://img.shields.io/badge/LeetCode-cs1j__2410945-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Maahichaurasiya/Leetcode">
-  <img src="https://img.shields.io/badge/LeetCode%20Repo-70%2B%20CPP%20Solutions-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode Solutions Repo" />
-</a>
-
-</div>
-
----
-
-### 📬 Let's Connect & Collaborate!
-
-I am actively seeking **Software Engineering**, **Data Analyst**, **Machine Learning**, and **Generative AI / Agentic AI** internship opportunities. If you're building cutting-edge software or data-driven products, let's talk!
-
-<div align="center">
-
-<a href="https://linkedin.com/in/maahichaurasiya-datascience">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:maahichaurasiya9026@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/cs1j_2410945/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve%20with%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-
-<br><br>
-
-<sub>Designed with ❤️ by <strong>Maahi Chaurasiya</strong> • Built for Impact & Reliability</sub>
+<a href="https://linkedin.com/in/maahichaurasiya-datascience"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/Maahichaurasiya/Leetcode"><img src="https://img.shields.io/badge/LeetCode%20Repo-C%2B%2B%20Solutions-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode Repo" /></a>
+&nbsp;
+<a href="mailto:maahichaurasiya9026@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
