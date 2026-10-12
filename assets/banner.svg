@@ -1,0 +1,80 @@
+<svg width="100%" height="auto" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0a0d14"/>
+      <stop offset="50%" stop-color="#140a26"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="top_border" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7928ca" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00d2ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="80" result="blur"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+  
+  <!-- Glowing Orbs -->
+  <circle cx="150" cy="100" r="180" fill="#7928ca" opacity="0.35" filter="url(#glow1)"/>
+  <circle cx="1050" cy="150" r="160" fill="#00d2ff" opacity="0.25" filter="url(#glow1)"/>
+  <circle cx="650" cy="180" r="140" fill="#a855f7" opacity="0.20" filter="url(#glow1)"/>
+
+  <!-- Border -->
+  <rect x="1.5" y="1.5" width="1197" height="337" rx="16.5" stroke="#7928ca" stroke-opacity="0.4" stroke-width="1.5"/>
+  <rect x="40" y="2" width="1120" height="2" fill="url(#top_border)"/>
+
+  <!-- Pre-title -->
+  <text x="65" y="52" fill="#a855f7" font-family="Consolas, monospace" font-size="15" font-weight="600" letter-spacing="1">// PORTFOLIO.SYSTEM  •  MAAHI CHAURASIYA</text>
+
+  <!-- Title -->
+  <text x="65" y="112" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-0.5">Maahi Chaurasiya</text>
+
+  <!-- Subtitle -->
+  <text x="67" y="156" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="400">Pre-Final Year CS @ PSIT  |  Generative AI &amp; Agentic Systems  |  ML &amp; Backend Engineer</text>
+
+  <!-- Badge 1: GenAI -->
+  <g transform="translate(67, 180)">
+    <rect width="145" height="32" rx="10" fill="#121622" stroke="#a855f7" stroke-width="1"/>
+    <circle cx="14" cy="16" r="4" fill="#a855f7"/>
+    <text x="26" y="21" fill="#f1f5f9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">GenAI &amp; RAG</text>
+  </g>
+
+  <!-- Badge 2: FastAPI -->
+  <g transform="translate(224, 180)">
+    <rect width="210" height="32" rx="10" fill="#121622" stroke="#38bdf8" stroke-width="1"/>
+    <circle cx="14" cy="16" r="4" fill="#38bdf8"/>
+    <text x="26" y="21" fill="#f1f5f9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">FastAPI &amp; Microservices</text>
+  </g>
+
+  <!-- Badge 3: Vision -->
+  <g transform="translate(446, 180)">
+    <rect width="185" height="32" rx="10" fill="#121622" stroke="#34d399" stroke-width="1"/>
+    <circle cx="14" cy="16" r="4" fill="#34d399"/>
+    <text x="26" y="21" fill="#f1f5f9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">Vision &amp; Grad-CAM</text>
+  </g>
+
+  <!-- Badge 4: Analytics -->
+  <g transform="translate(643, 180)">
+    <rect width="180" height="32" rx="10" fill="#121622" stroke="#fbbf24" stroke-width="1"/>
+    <circle cx="14" cy="16" r="4" fill="#fbbf24"/>
+    <text x="26" y="21" fill="#f1f5f9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">Predictive Analytics</text>
+  </g>
+
+  <!-- Badge 5: Hackathons -->
+  <g transform="translate(835, 180)">
+    <rect width="200" height="32" rx="10" fill="#121622" stroke="#f472b6" stroke-width="1"/>
+    <circle cx="14" cy="16" r="4" fill="#f472b6"/>
+    <text x="26" y="21" fill="#f1f5f9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">Flipkart GRiD (Round 3)</text>
+  </g>
+
+  <!-- Bottom Status Pill -->
+  <g transform="translate(67, 246)">
+    <rect width="1066" height="50" rx="12" fill="#0d1321" stroke="#7928ca" stroke-opacity="0.5" stroke-width="1"/>
+    <circle cx="26" cy="25" r="5" fill="#22c55e"/>
+    <text x="44" y="30" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600">OPEN FOR INTERNSHIPS: Software Engineering (SWE), Machine Learning &amp; Generative AI</text>
+    <text x="830" y="30" fill="#c084fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600">B.Tech CSE  |  CGPA: 8.5 / 10.0</text>
+  </g>
+</svg>

@@ -1,53 +1,39 @@
-<!-- Hero Banner -->
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,18,24&amp;height=220&amp;section=header&amp;text=Maahi%20Chaurasiya&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn"
-    width="100%"
-    alt="Maahi Chaurasiya Banner"
-  />
+<!-- Hero Banner (Stored locally in repository for 100% uptime & zero broken links) -->
+<img src="./assets/banner.png" width="100%" alt="Maahi Chaurasiya - Pre-Final Year CS | Generative AI & Agentic Systems | ML Engineer" />
+
+<br><br>
+
+<!-- Dynamic Animated Subtitle -->
+<a href="https://github.com/Maahichaurasiya">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Pre-Final+Year+CS+Student+%40+PSIT+Kanpur+(CGPA%3A+8.5%2F10);Generative+AI+%26+Agentic+Systems+Engineer;Building+LLM-Powered+Apps%2C+RAG+%26+Computer+Vision;Seeking+SWE%2C+Data+Analyst+%26+AI%2FML+Internships" alt="Typing Title" />
+</a>
+
+<p align="center">
+  <a href="https://linkedin.com/in/maahichaurasiya-datascience"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://leetcode.com/u/cs1j_2410945/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  &nbsp;
+  <a href="mailto:maahichaurasiya9026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Maahichaurasiya.Maahichaurasiya" alt="Profile Views" />
+</p>
 
 </div>
 
-<!-- Profile Summary -->
-<h2 align="center">👋 About Me</h2>
-
-<p align="center">
-  <b>Pre-Final Year CSE Student • Generative AI • Agentic Systems • ML Engineering</b>
-</p>
-
-<p align="center">
-  I'm a Computer Science student passionate about building
-  <b>AI-powered software systems</b> that solve real-world problems.
-  I work across <b>Generative AI, Agentic AI, LLMs, RAG, Computer Vision,
-  Machine Learning, and FastAPI</b>.
-</p>
-
-<p align="center">
-  I enjoy building intelligent applications, experimenting with AI agents,
-  developing reliable backend systems, and turning ideas into
-  <b>deployable products</b>.
-</p>
-
-<p align="center">
-  🚀 <b>Currently exploring:</b>
-  Agentic AI • Multi-Agent Systems • RAG • LLM Applications
-</p>
-
-<p align="center">
-  🎯 <b>Open to:</b>
-  Software Engineering • AI/ML • Generative AI • Data Analyst Internships
-</p>
 ---
 
-### 📌 Recruiter Quick Snapshot
+### 👨‍💻 Summary & About Me
 
-| Attribute | Details |
-| :--- | :--- |
-| 🎓 **Education** | **B.Tech in Computer Science & Engineering** (Expected May 2028)<br>Pranveer Singh Institute of Technology (PSIT), Kanpur — **CGPA / SGPA: 8.5 / 10.0** |
-| 🎯 **Target Roles** | **Software Engineering (SWE) Intern** • **Machine Learning Engineer Intern** • **Generative AI / Agentic AI Intern** • **Data Analyst Intern** |
-| 💡 **Core Expertise** | **GenAI & Agentic Systems:** LLM orchestration, RAG architectures with ChromaDB, Explainable AI (Grad-CAM)<br>**Backend & Reliability:** FastAPI micro-endpoints, HMAC-secured webhooks, idempotency, retry mechanisms<br>**Data & ML:** End-to-end predictive modeling, feature engineering, Streamlit analytics dashboards |
-| 🏆 **Notable Accomplishments** | **Flipkart GRiD Semi-finalist (Round 3)** • **Adobe Hackathon** Participant • **Deloitte Data Analytics Simulation** |
+> **Pre-final year Computer Science & Engineering undergraduate** at **Pranveer Singh Institute of Technology (PSIT), Kanpur** *(Expected May 2028 | **CGPA: 8.5 / 10.0**)* with a deep focus on **Generative AI**, **Agentic Systems**, and **Production Machine Learning**.
+
+* 🚀 **Building Intelligent Systems:** Hands-on experience developing end-to-end LLM applications, multimodal AI, and RAG architectures grounded in domain guidelines via ChromaDB and LangChain.
+* 🧠 **Multimodal & Computer Vision:** Fine-tuning deep convolutional networks (EfficientNet on HAM10000) and integrating **Grad-CAM explainability** to render model predictions transparent and interpretable.
+* 🛡️ **Resilient Backend Engineering:** Architecting production-ready APIs with **FastAPI**, **HMAC-SHA256 authenticated webhooks**, idempotency safeguards, automated retry scheduling, and comprehensive **Pytest** suites.
+* 📊 **Data Science & Analytics:** Strong analytical foundation in statistical feature engineering, predictive regression/classification, interactive **Streamlit** dashboards, and executive **Tableau** visualizations.
+* 🏆 **Competitive Track Record:** **Flipkart GRiD Round 3 Semi-finalist**, **Adobe Hackathon** participant, and **149+ problems solved on LeetCode**.
+* 🎯 **Seeking Internship Roles:** Open to **Software Engineering (SWE)**, **Machine Learning Engineer**, **Generative AI / Agentic AI**, and **Data Analyst** internships.
 
 ---
 
@@ -152,6 +138,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
@@ -181,9 +168,10 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" />
- 
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
 #### 🛠️ Developer Tools, Testing & Core Concepts
